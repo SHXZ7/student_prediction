@@ -36,9 +36,11 @@ Framer Motion	CORS Middleware	RandomForest, SVM, GBM
 
 ├── frontend/              # Next.js frontend
 │   └── src/app/page.js    # Main UI logic
+
 ├── backend/               # FastAPI backend
 │   ├── main.py            # API endpoints and prediction logic
 │   └── model/             # Saved models and metadata
+
 ├── model/                 # Model training logic
 │   └── train_model.py     # Full training pipeline
 
